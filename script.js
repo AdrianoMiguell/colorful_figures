@@ -1,6 +1,7 @@
 let width = window.innerWidth;
 let height = window.innerHeight;
 
+
 let btn = document.querySelector("#btn");
 
 console.log(`width da tela: ${width}, height: ${height}`);
