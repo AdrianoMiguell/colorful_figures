@@ -4,8 +4,10 @@
 }
 
 body {
+  width: 100vw !important;
+  height: 100vh !important;
   overflow: hidden;
-  background-color: #fefefe;
+  background-color: rgb(254, 254, 250);
 }
 body div {
   border-radius: 100%;
@@ -33,8 +35,14 @@ body div {
 .blue {
   background-color: #4411ffaa;
 }
+.blue-light {
+  background-color: rgba(84, 189, 250, 0.667);
+}
 .green {
   background-color: #22aa66aa;
+}
+.green-light {
+  background-color: rgba(135, 233, 179, 0.667);
 }
 .pink {
   background-color: #ff6666aa;

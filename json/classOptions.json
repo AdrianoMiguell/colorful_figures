@@ -1,0 +1,6 @@
+{
+  "class": {
+    "colors": ["orange", "blue", "green", "pink", "green-light", "blue-light"],
+    "sizes": ["small", "medium", "big", "bigger"]
+  }
+}
